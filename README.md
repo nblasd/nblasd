@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammdAbdullaah&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nblasd&color=blue" alt="Profile Views" />
 </p>
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=nblasd&count_private=true&bg_color=fff&text_color=0A2540&title_color=635BFF&hide=stars&custom_title=GitHub%20Stats)](https://github.com/nblasd)
