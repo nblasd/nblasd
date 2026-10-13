@@ -1,35 +1,48 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nblasd&color=blue" alt="Profile Views" />
-</p>
+<!-- ==================== HEADER ==================== -->
+<div align="center">
 
-<h1 align="center">Hi there, I'm Shoaib Ahmed 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:635BFF,100:0A2540&height=200&section=header&text=Shoaib%20Ahmed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Engineer&descAlignY=58&descSize=18" width="100%" />
 
-<p align="center">
-  <a href="https://github.com/nblasd">
-    <img src="https://github-readme-stats.vercel.app/api?username=nblasd&count_private=true&show_icons=true&hide=stars&bg_color=ffffff&text_color=0A2540&title_color=635BFF&custom_title=GitHub%20Stats" alt="GitHub Stats" />
-  </a>
-</p>
+<a href="https://github.com/nblasd">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=635BFF&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Engineer;Building+production+apps+that+scale;Web+%7C+Mobile+%7C+APIs;AI-native+developer+%F0%9F%A4%96" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/shoaib-ahmed-230a1727b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:gameranonymous338@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/nblasd">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=nblasd&label=Profile+Views&color=635BFF&style=for-the-badge" alt="Profile Views" />
+
+</div>
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h3>📊 Top Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nblasd&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-    </td>
-    <td width="50%" align="center">
-      <h3>🚀 Tech Stack</h3>
-      <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Ruby on Rails"/>
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    </td>
-  </tr>
-</table>
+## 👨‍💻 About Me
+
+```ruby
+class Developer
+  attr_reader :name, :role, :location, :stack, :focus
+
+  def initialize
+    @name     = "Shoaib Ahmed"
+    @role     = "Senior Full Stack Engineer"
+    @location = "Pakistan 🇵🇰"
+    @stack    = ["Ruby on Rails", "React", "React Native", "PostgreSQL"]
+    @focus    = "End-to-end product development"
+  end
+
+  def currently
+    {
+      building:  "Scalable full-stack applications",
+      learning:  "AI-assisted development workflows",
+      open_to:   ["Remote roles", "Freelance", "Collaborations"]
+    }
+  end
+end
